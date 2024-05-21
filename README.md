@@ -4,6 +4,8 @@ A simple and efficient calculator app supporting basic arithmetic operations, bu
 .
 .
 .
-To view the output click on the link given below...
+To view the output click on the link given below.
+.
+.
+https://calbyankit.netlify.app/
 
-https://innovatehubbyankit.netlify.app/
